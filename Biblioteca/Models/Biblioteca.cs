@@ -3,13 +3,15 @@ using System.Collections.Generic;
 
 namespace Biblioteca
 {
-    public class Biblioteca : IEmprestavel
+    public class Biblioteca : IEmprestimo
     {
-        private List<Cliente> clientes = new List<Cliente>();
+        private List<Cliente> clientes = new List<Cliente>(); //atributos clientes, livros e emprestimos mudados para private, escondendo acesso direto externo
         private List<Livro> livros = new List<Livro>();
         private List<Emprestimo> emprestimos = new List<Emprestimo>();
 
-        public void AdicionarCliente(Cliente cliente)
+        //criacao de metodos publicos para adicionar clientes, livros e emprestimos para permitir a adicao de livros e clientes a biblioteca
+        //por que? controle sobre esses objetos que estao sendo manipulados - encapsulamento
+        public void AdicionarCliente(Cliente cliente) 
         {
             clientes.Add(cliente);
         }

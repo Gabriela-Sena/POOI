@@ -1,7 +1,8 @@
 using System;
 
-namespace Biblioteca
-{
+namespace Biblioteca{
+    
+    //cruacao da classe Pessoa para que cliente e funcionario herdem seus atributos e metodos - heranca
     public abstract class Pessoa
     {
         public string Nome { get; set; }

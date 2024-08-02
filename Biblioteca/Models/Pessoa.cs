@@ -1,9 +1,10 @@
 using System;
 
-namespace Biblioteca;
-
-public class Pessoa
+namespace Biblioteca
 {
-	public string Nome { get; set; }
-	public DateTime DataNascimento{ get; set; }
+    public abstract class Pessoa
+    {
+        public string Nome { get; set; }
+        public DateTime DataNascimento { get; set; }
+    }
 }

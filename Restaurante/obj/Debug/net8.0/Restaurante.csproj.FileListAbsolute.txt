@@ -1,0 +1,15 @@
+C:\Users\senag\OneDrive\Documentos\GitHub\POOI\Restaurante\bin\Debug\net8.0\Restaurante.exe
+C:\Users\senag\OneDrive\Documentos\GitHub\POOI\Restaurante\bin\Debug\net8.0\Restaurante.deps.json
+C:\Users\senag\OneDrive\Documentos\GitHub\POOI\Restaurante\bin\Debug\net8.0\Restaurante.runtimeconfig.json
+C:\Users\senag\OneDrive\Documentos\GitHub\POOI\Restaurante\bin\Debug\net8.0\Restaurante.dll
+C:\Users\senag\OneDrive\Documentos\GitHub\POOI\Restaurante\bin\Debug\net8.0\Restaurante.pdb
+C:\Users\senag\OneDrive\Documentos\GitHub\POOI\Restaurante\obj\Debug\net8.0\Restaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senag\OneDrive\Documentos\GitHub\POOI\Restaurante\obj\Debug\net8.0\Restaurante.AssemblyInfoInputs.cache
+C:\Users\senag\OneDrive\Documentos\GitHub\POOI\Restaurante\obj\Debug\net8.0\Restaurante.AssemblyInfo.cs
+C:\Users\senag\OneDrive\Documentos\GitHub\POOI\Restaurante\obj\Debug\net8.0\Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\senag\OneDrive\Documentos\GitHub\POOI\Restaurante\obj\Debug\net8.0\Restaurante.sourcelink.json
+C:\Users\senag\OneDrive\Documentos\GitHub\POOI\Restaurante\obj\Debug\net8.0\Restaurante.dll
+C:\Users\senag\OneDrive\Documentos\GitHub\POOI\Restaurante\obj\Debug\net8.0\refint\Restaurante.dll
+C:\Users\senag\OneDrive\Documentos\GitHub\POOI\Restaurante\obj\Debug\net8.0\Restaurante.pdb
+C:\Users\senag\OneDrive\Documentos\GitHub\POOI\Restaurante\obj\Debug\net8.0\Restaurante.genruntimeconfig.cache
+C:\Users\senag\OneDrive\Documentos\GitHub\POOI\Restaurante\obj\Debug\net8.0\ref\Restaurante.dll
